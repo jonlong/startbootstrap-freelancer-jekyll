@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Start Bootstrap
-email: your-email@domain.com
+title: Philly Pinball Club
+email: info@phillypinball.club
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - Graphic Artist - User Experience Designer
-baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  Come one, come all.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://phillypinball.club" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
 twitter_username: SBootstrap
